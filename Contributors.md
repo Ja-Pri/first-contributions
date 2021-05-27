@@ -253,6 +253,7 @@ elkhechafi zakaria
 - [RosyGraph](https://github.com/RosyGraph)
 - [Eke Victor](https://github.com/Evavic44)
 - [ahcodes](https://github.com/ahcodes)
+- [Jake Price] (https://github.com/Ja-Pri)
 - [Peter Laughlin](https://github.com/plaughlin98)
 - [Aman Deep Bisht](https://github.com/aman152003)
 - [David Young](github.com/dichlorodiphen)
